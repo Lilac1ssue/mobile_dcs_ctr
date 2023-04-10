@@ -4,6 +4,8 @@
 
 Su33 for Xbox controller.
 In-game settings:
-[O]→[R];
+[Rshift+R]→[Rshift+O];
 [Rctrl+=]→[Rshift+=];
 [Rctrl+-]→[Rshift+-];
+
+Subscribe link: steam://controllerconfig/223750/2960344466
