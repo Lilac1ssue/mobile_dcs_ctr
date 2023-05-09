@@ -9,4 +9,4 @@ In-game settings:
 [Rctrl+-]→[Rshift+-];
 Custom key [Ralt+Rshift+Z];
 
-Subscribe link: steam://controllerconfig/223750/2967796769
+Subscribe link: steam://controllerconfig/223750/2973535349
